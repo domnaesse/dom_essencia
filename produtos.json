@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Body Splash Melancia",
+    "category": "Body Splash",
+    "description": "Uma fragrância delicada, limpa e confortável para acompanhar sua rotina.",
+    "image": "img/body_13.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Body Splash Maracujá",
+    "category": "Body Splash",
+    "description": "Uma fragrância cremosa, acolhedora e irresistivelmente envolvente.",
+    "image": "img/body_14.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Body Splash Pistache",
+    "category": "Body Splash",
+    "description": "Uma combinação marcante para momentos especiais.",
+    "image": "img/body pistache.jpg"
+  },
+
+    {
+    "id": 2,
+    "name": "Body Splash Frutas Tropicais",
+    "category": "Body Splash",
+    "description": "Uma seleção de fragrâncias frutadas que combina notas de pera, frutas vermelhas, ameixa, morango e baunilha, trazendo frescor, doçura e personalidade para acompanhar sua rotina.",
+    "image": "img/kit body 5.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Body Splash outras fragâncias",
+    "category": "Body Splash",
+    "description": "Uma seleção de fragrâncias frutadas que combina notas de pera, frutas vermelhas, ameixa, morango e baunilha, trazendo frescor, doçura e personalidade para acompanhar sua rotina.",
+    "image": "img/body_3_fragrancias.jpg"
+  },
+{
+    "id": 6,
+    "name": "Sabonete Maracuja",
+    "category": "Sabonetes",
+    "description": "Sabonete artesanal com inspiração botânica e aroma delicado.",
+    "image": "img/2.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Sabonete melancia",
+    "category": "Sabonetes",
+    "description": "Uma experiência acolhedora para transformar o banho em ritual.",
+    "image": "img/3.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Sabonetes outras fragrâncias",
+    "category": "Sabonetes",
+    "description": "Aroma floral relaxante para um momento de cuidado pessoal.",
+    "image": "img/5.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Sabonetes outras fragrâncias",
+    "category": "Sabonetes",
+    "description": "Textura especial para um cuidado sensorial e renovador.",
+    "image": "img/6.jpeg"
+  },
+
+
+  {
+    "id": 20,
+    "name": "Casa Perfumada",
+    "category": "Aromas para Casa",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/7.jpeg"
+  },
+   
+  {
+    "id": 25,
+    "name": "Casa Perfumada",
+    "category": "Aromas para Casa",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/8.jpeg"
+  },
+   {
+    "id": 28,
+    "name": "Casa Perfumada velas",
+    "category": "Aromas para Casa",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/velas1 dom.jpg"
+  },
+
+
+  
+    {
+    "id": 21,
+    "name": "Perfume outros perfumes",
+    "category": "Perfumes",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/p1.jpg"
+  },
+
+     {
+    "id": 22,
+    "name": "Perfume outros perfumes",
+    "category": "Perfumes",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/p2.jpg"
+  },
+  
+     {
+    "id": 23,
+    "name": "Perfumes corporais",
+    "category": "Perfumes",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/pr3.jpg"
+  },
+
+     {
+    "id": 24,
+    "name": "Perfumes corporais",
+    "category": "Perfumes",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/pr4.jpg"
+  }
+,
+      {
+      "id": 26,
+      "name": "home splash",
+      "category": "home splash",
+      "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+      "image": "img/home 4 fragancia.jpg"
+    } 
+
+
+
+
+
+
+]

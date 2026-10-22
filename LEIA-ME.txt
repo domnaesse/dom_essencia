@@ -1,0 +1,20 @@
+DOM NA ESSÊNCIA — Landing page
+
+Arquivos:
+- index.html: estrutura da página
+- style.css: identidade visual e responsividade
+- script.js: filtros, menu mobile e mensagens de WhatsApp
+- produtos.json: catálogo inicial com 20 itens
+
+Antes de publicar:
+1. Abra script.js e altere WHATSAPP_NUMBER para o número comercial real, no formato 55 + DDD + número, apenas dígitos.
+2. Revise os nomes, descrições e imagens de produtos.json para refletirem os produtos reais da marca. As imagens atuais são referências externas de demonstração.
+3. Teste localmente usando o Live Server do VS Code (não abra index.html diretamente, porque o fetch de produtos.json pode ser bloqueado pelo navegador).
+4. Confira os links e as imagens em celular e computador.
+
+Para rodar:
+- Abra a pasta no VS Code.
+- Instale/ative a extensão Live Server.
+- Clique com o botão direito em index.html > Open with Live Server.
+
+Nota: o botão Saiba Mais abre o WhatsApp com uma mensagem pré-preenchida. O visitante ainda precisa apertar Enviar. Respostas automáticas após o envio precisam ser configuradas no WhatsApp Business ou em uma plataforma de chatbot.
